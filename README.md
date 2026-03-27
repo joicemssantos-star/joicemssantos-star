@@ -54,6 +54,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 📌 Projeto 1 – [site1] (https://joicemssantos-star.github.io/site1/)
 
 📌 Projeto 2 – [Nome do Projeto]  
+
 📌 Projeto 3 – [Nome do Projeto]  
 
 ---
