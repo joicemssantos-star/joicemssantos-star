@@ -59,7 +59,7 @@ Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 ## 📫 Contato
 
-📧 Email: joice_ms_samtos@estudante.sesisenai.org.br 
+📧 Email: joice_ms_santos@estudante.sesisenai.org.br 
 💼 GitHub: https://github.com/joicemssantos-star
 
 ---
