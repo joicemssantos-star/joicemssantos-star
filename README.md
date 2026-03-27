@@ -1,10 +1,20 @@
 # 👋 Olá, eu sou Joice Maria Schoff Dos Santos.
 
 🎓 Estudante da Aprendizagem Industrial programador de sistemas da informação
+
 🎓 Estudante da Aprendizagem Industrial assistente adiministrativo (2023)
+
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
+
+## 📜 Cursos de Curta Duração
+
+🏛 comunicação inteligente para negócios
+
+🏛 comunicação inteligente para negócios
+
+
 
 ## 👨‍💻 Sobre mim
 
