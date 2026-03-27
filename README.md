@@ -1,8 +1,10 @@
 # 👋 Olá, eu sou Joice Maria Schoff Dos Santos.
 
-🎓 Estudante da Aprendizagem Industrial programador de sistemas da informação
+🎓 Estudante da Aprendizagem Industrial programador de sistemas da informação (senai) contratada por seara alimentos
 
-🎓 Estudante da Aprendizagem Industrial assistente adiministrativo (2023)
+🎓 Estudante da Aprendizagem Industrial assistente adiministrativo (2023) por seara alimentos
+
+🎓 estudante do 2º ano do ensino médio na escola EEB frei evaristo
 
 💻 Interessado em tecnologia, programação e inovação  
 
