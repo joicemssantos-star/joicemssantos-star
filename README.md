@@ -2,7 +2,7 @@
 
 🎓 Estudante da Aprendizagem Industrial programador de sistemas da informação (senai) contratada por seara alimentos
 
-🎓 Aprendizagem Industrial assistente adiministrativo (2023) por seara alimentos
+🎓 Aprendizagem Industrial assistente administrativo (2023) por seara alimentos
 
 🎓 estudante do 2º ano do ensino médio na escola EEB frei evaristo
 
