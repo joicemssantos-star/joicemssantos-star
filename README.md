@@ -10,10 +10,15 @@
 
 ## 📜 Cursos de Curta Duração
 
-🏛 comunicação inteligente para negócios
+🏛 Comunicação inteligente para negócios
 
-🏛 comunicação inteligente para negócios
+🏛 Boas práticas de fabricação de alimentos e bebidas 
 
+🏛 Tecnologias 4.0 no contexto da indústria 
+
+🏛 Educação finaceira para empreendedores
+
+🏛 Cultura lean
 
 
 ## 👨‍💻 Sobre mim
